@@ -3,9 +3,9 @@
     etot_conv_thr =   2.0000000000d-04
     forc_conv_thr =   1.0000000000d-04
     restart_mode = "from_scratch"
-    pseudo_dir  = "./PP"
+    pseudo_dir  = "~/CsPbBr3/PP"
     prefix = "unified"
-    outdir = "./"
+    outdir = "~/CsPbBr3"
 /
 
 &SYSTEM
